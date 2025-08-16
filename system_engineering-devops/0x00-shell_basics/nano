@@ -1,0 +1,3 @@
+echo $EDITOR  # Must be exact uppercase
+echo $VISUAL
+
