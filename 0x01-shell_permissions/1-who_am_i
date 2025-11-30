@@ -1,1 +1,2 @@
-Create a new file again
+#!/bin/bash
+whoami
