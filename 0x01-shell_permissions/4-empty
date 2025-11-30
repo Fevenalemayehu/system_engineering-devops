@@ -1,1 +1,2 @@
-create
+#!/bin/bash
+touch hello
