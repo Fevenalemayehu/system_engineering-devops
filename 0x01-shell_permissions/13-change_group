@@ -1,1 +1,2 @@
-cretae a file 
+#!/bin/bash
+chgrp school hello
