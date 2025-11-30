@@ -1,1 +1,2 @@
-Created aonther file 
+#!/bin/bash
+ls -la
