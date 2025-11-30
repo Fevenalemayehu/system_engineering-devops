@@ -1,1 +1,2 @@
-create a file 
+#!/bin/bash
+chmod 753 hello
