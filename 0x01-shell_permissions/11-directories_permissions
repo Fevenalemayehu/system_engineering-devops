@@ -1,1 +1,2 @@
-Updated file
+#!/bin/bash
+chmod ugo+X *
