@@ -1,0 +1,6 @@
+Hello! My name is Feven Alemayehu, and I'm excited to begin my journey with Git and GitHub. 
+I'm currently learning version control to better manage my coding projects and collaborate with others. 
+Technology has always fascinated me, and I'm particularly interested in  web development.
+I created this repository as part of my GitHub learning process. Through this platform, I hope to contribute to meaningful projects while improving my programming skills. 
+When I'm not coding, I enjoy reading. I believe continuous learning is key to growth, and I'm thrilled to be taking these first steps in my developer journey!
+introduction.txt
