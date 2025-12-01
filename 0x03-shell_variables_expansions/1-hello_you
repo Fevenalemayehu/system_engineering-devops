@@ -1,1 +1,2 @@
- wanna file
+#!/bin/bash
+echo "hello $(whoami)"
