@@ -1,2 +1,2 @@
 #!/bin/bash
-Hi Feven.And I am a Jimma university student.
+echo "Hello, World"
