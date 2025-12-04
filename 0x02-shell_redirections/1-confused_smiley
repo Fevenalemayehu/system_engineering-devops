@@ -1,3 +1,2 @@
 #!/bin/bash
-read something  # ← This would ask for input
 echo '"(Ôo)'\''
