@@ -1,1 +1,2 @@
-doing good 
+#!/bin/bash
+cat /etc/passwd
