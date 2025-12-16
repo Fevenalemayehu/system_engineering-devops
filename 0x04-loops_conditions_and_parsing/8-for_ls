@@ -1,1 +1,27 @@
-Hat
+# Create the file
+cat > 6-superstitious_numbers << 'EOF'
+#!/usr/bin/env bash
+# This script displays numbers 1-20 with special messages for 4, 9, and 17
+counter=1
+while [ $counter -le 20 ]; do
+    echo "$counter"
+    case $counter in
+        4)
+            echo "bad luck from China"
+            ;;
+        9)
+            echo "bad luck from Japan"
+            ;;
+        17)
+            echo "bad luck from Italy"
+            ;;
+    esac
+    counter=$((counter + 1))
+done
+EOF
+
+# Make it executable
+chmod +x 6-superstitious_numbers
+
+# Test it
+./6-superstitious_numbers
