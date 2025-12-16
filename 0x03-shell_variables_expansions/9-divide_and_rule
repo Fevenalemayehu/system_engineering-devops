@@ -1,1 +1,2 @@
-Create 
+#!/bin/bash
+echo $((POWER / DIVIDE))
