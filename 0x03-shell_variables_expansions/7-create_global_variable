@@ -1,1 +1,2 @@
-Creating a file
+#!/bin/bash
+export BEST="School"
