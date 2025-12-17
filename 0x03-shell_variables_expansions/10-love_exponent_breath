@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *; do  if [ -f "$file" ] && [[ "$file" != .* ]]; then   echo "${file#*-}"fidone
+echo $((BREATH ** LOVE))
