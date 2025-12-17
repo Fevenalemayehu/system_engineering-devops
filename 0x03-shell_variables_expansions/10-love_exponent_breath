@@ -1,9 +1,2 @@
 #!/bin/bash
-# This script displays filenames after the first dash, one per line
-for file in *; do
-    # Skip if it's a directory or starts with dot
-    if [ -f "$file" ] && [[ "$file" != .* ]]; then
-        # Extract part after first dash
-        echo "${file#*-}"
-    fi
-done
+for file in *; do  if [ -f "$file" ] && [[ "$file" != .* ]]; then   echo "${file#*-}"fidone
